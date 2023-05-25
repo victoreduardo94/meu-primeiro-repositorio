@@ -8,5 +8,6 @@
 
 *billyto y rockito
 * comando git pull
+* comando git fetch
 
 
